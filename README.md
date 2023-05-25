@@ -1,6 +1,10 @@
 # react-movie
 
-Responsive React Movies App With API
+• The "Movies App" web application that allows users to browse and search for movies.
+• Developed a web application, using the React JavaScript framework, that integrates with an API to retrieve movie information and data.
+• Designed a user-friendly interface with intuitive navigation and interactive components.
+• Enhanced user experience by providing various filters and sorting options for quick movie searches.
+• API Integration: You integrated an API into the app to retrieve movie information and data. This involved understanding the API documentation, setting up the necessary endpoints, and handling API requests and responses to fetch details like movie titles, descriptions, genres, and trailers.
 
 Live Demo : https://khaleddoosama.github.io/react-movie/
 
